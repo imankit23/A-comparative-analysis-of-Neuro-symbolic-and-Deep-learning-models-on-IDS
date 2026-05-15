@@ -1,6 +1,6 @@
 # A Comparative Analysis of Neuro-Symbolic and Deep Learning Models for Intrusion Detection
 
-This repository contains the official Jupyter Notebook (`.ipynb`) implementations and experimental frameworks for a comparative evaluation between connectionist Deep Learning (DL) architectures and hybrid Neuro-Symbolic (NeSy) AI systems. 
+This repository contains the official Jupyter Notebook (`.ipynb`) implementations and experimental frameworks for a comparative evaluation between connectionist Deep Learning (DL) architectures and hybrid Neuro-Symbolic (NeSy) architectures on IDS. 
 
 Each notebook is self-contained, incorporating its own data preprocessing pipeline (CICIDS-2017 feature engineering) followed by the model architecture and evaluation logs.
 
